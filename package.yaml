@@ -54,6 +54,7 @@ _ghc-options: &ghc-options
   - -Wincomplete-uni-patterns
   - -Wincomplete-record-updates
   - -Wmissing-import-lists
+  - -fexternal-interpreter
 
 executables:
 
